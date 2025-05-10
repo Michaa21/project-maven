@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 18
+Class-Path: libs/commons-lang3-3.12.0.jar libs/javafx-controls-18.0.1.ja
+ r libs/javafx-controls-18.0.1-win.jar libs/javafx-graphics-18.0.1.jar l
+ ibs/javafx-graphics-18.0.1-win.jar libs/javafx-base-18.0.1.jar libs/jav
+ afx-base-18.0.1-win.jar libs/desktop-game-engine-1.0.jar
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Main-Class: com.javarush.games.racer.RacerGame
+
